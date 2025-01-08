@@ -51,89 +51,90 @@ arm.flex();                             // 3)
 arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
-//  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  1)       
+//  Noun:       baby
+//  action 1:   baby cries
+baby.cries();
+//  action 2:   baby eats
+baby.eats();
+//  action 3:   baby sleeps
+baby.sleeps();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       wife
+//  action 1:   wife reads
+wife.reads();
+//  action 2:   wife cooks
+wife.cooks();
+//  action 3:   wife yells
+wife.yells();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       dog
+//  action 1:   dog runs
+dog.runs();
+//  action 2:   dog hides
+dog.hides();
+//  action 3:   dog barks
+dog.barks();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       postman
+//  action 1:   postman walks
+postman.walks();
+//  action 2:   postman delivers
+postman.delivers();
+//  action 3:   postman sings
+postman.sings();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       people
+//  action 1:   people vote
+people.vote();
+//  action 2:   people gossip
+people.gossip();
+//  action 3:   people dance
+people.dance();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       birds
+//  action 1:   birds fly
+birds.fly();
+//  action 2:   birds chirp
+birds.chirp();
+//  action 3:   birds excrete
+birds.excrete();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       pastor
+//  action 1:   pastor prays
+pastor.prays();
+//  action 2:   pastor preaches
+pastor.preaches();
+//  action 3:   pastor encourages
+pastor.encourages();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
-//  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       student 
+//  action 1:   student studies
+student.studies();
+//  action 2:   student learns
+student.learns();
+//  action 3:   student writes
+student.writes();
+//  9)          
+//  Noun:       waiter
+//  action 1:   waiter greets
+waiter.greets();
+//  action 2:   waiter takes orders
+waiter.takesOrders();
+//  action 3:   waiter delivers food
+waiter.deliversFood();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       coach
+//  action 1:   coach teaches
+coach.teaches();
+//  action 2:   coach leads
+coach.leads();
+//  action 3:   coach disciplines
+coach.disciplines();
 
 
 #endif
+
 
 /*
  MAKE SURE YOU ARE NOT ON THE MASTER BRANCH
