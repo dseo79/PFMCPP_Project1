@@ -108,13 +108,13 @@ pastor.preaches();
 //  action 3:   pastor encourages
 pastor.encourages();
 //  8)
-//  Noun:       student 
-//  action 1:   student studies
-student.studies();
-//  action 2:   student learns
-student.learns();
-//  action 3:   student writes
-student.writes();
+//  Noun:       truck driver 
+//  action 1:   truck driver transports goods
+truckDriver.transportsGoods();
+//  action 2:   truck driver plans routes
+truckDriver.plansRoutes();
+//  action 3:   truck driver measures loads
+truckDriver.measuresLoads();
 //  9)          
 //  Noun:       waiter
 //  action 1:   waiter greets
